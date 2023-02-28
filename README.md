@@ -1,5 +1,9 @@
 ## Bem-vindo ao meu perfil 🤗
-
+Na busca de desenvolver um portfólio para divulgar meu projetos com música, me deparei com o `desenvolvimento web`  através de um anúncio. O que eu não esperava era me apaixonar tanto por essa área a ponto de resolver investir tanto assim nela.
+<br><br>
+Hoje ***tenho gosto pelo que faço***, e busco uma oportunidade para contribuir com uma ótima equipe e aprender cada vez mais, humana e profissinalmente.
+<br><br>
+Gosto muito de *café* (meu vício sem açúcar), e meus principais hobbies são *ler*, *ver animes e filmes*.
 <div>
   <a href="https://github.com/jeovan-delavechea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeovan-delavechea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
