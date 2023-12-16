@@ -17,7 +17,7 @@ Gosto muito de *café* (meu vício sem açúcar), e meus principais hobbies são
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
  
